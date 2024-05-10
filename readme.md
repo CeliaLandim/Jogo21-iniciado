@@ -45,11 +45,16 @@ Agora vamos focar no estudo de como foi escrito o nosso CSS. (vejamos abaixo):
     background-color:yellow;}    // define a cor do fundo que é amarelo 
 ``` 
 <hr>
-NOME
-
-COLAR O CODIGO DO JOGO21.HTML
 
 
-COLAR O CODIGO DO AQUIVO.CSS
+no arquivo código começamos usar MÉTODOS existentes de um ARRAY.
 
+Atenção ao Exemplo do Push()
 
+![alt text](image-2.png)
+
+Atenção ao Exemplo fo shift()
+
+![alt text](image-3.png)
+
+verifique o arquivo CODIGO.JS e como foi usado estes metodos e como usamos o ALERT para saber como as variáveis estão se comportando....

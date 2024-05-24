@@ -9,11 +9,20 @@
 </head>
 <body>
     <div class="mesa">
-        <div class="robot"></div>
-        <div class="baralho">
-            <button onclick="jogo()">Iniciar</button>
+        <div class="robot">
+            <img src="./img/costas.png" class="carta" id="cr1">
+            <img src="./img/costas.png" class="carta" id="cr2">
         </div>
-        <div class="jogador"></div>
+        <div class="baralho">
+            <button onclick="jogo()" id="on">Iniciar</button>
+            <button onclick="finalizar()">Fim....</button>
+            
+        </div>
+        <div class="jogador" id="jogador">
+            <img src="./img/costas.png" class="carta" id="cj1">
+            <img src="./img/costas.png" class="carta" id="cj2">
+      
+        </div>
     
     </div>
 </body>

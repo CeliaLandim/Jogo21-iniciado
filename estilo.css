@@ -4,19 +4,22 @@
     height:600px;
     background-color: green;
       }
+.carta {
+    height:150px;
+}
 .robot{
    position: relative;
    top:5px;
    left:15px;
-   width:160px;
-   height:60px;
+   width:400px;
+   height:80px;
    background-color: black;  }      
 .jogador{
     position: relative;
-    top:390px;
+    top:265px;
     left:15px;
-    width:160px;
-    height:60px;
+    width:400px;
+    height:80px;
     background-color: black; }   
 .baralho{
     position: relative;
